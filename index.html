@@ -5,41 +5,35 @@
 	<style>
 	.client {
 	
-		padding: 20px;
 	
-		display: inline-block;
-		margin: 10px;
+
+		align-items: center;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+		margin-left:-100px; /* Metade do valor da Largura */
+		margin-top:-50px; /* Metade da valor da Altura */
+		left:50%;
+		top:40%;
+		position:absolute;
 	}
 	.hide {
 		display: none;
+		justify-content: center;
+		text-align: center;
 	}
 	</style>
 </head>
 <body>
 
 	<div id="app">
-
-	<center>
-		<div class="form-container">
-			
-			<br><br>
-			<a class="add-client-btn">
-				<img src="https://img.icons8.com/pastel-glyph/64/000000/qr-code--v2.png"/>
-			</a>
-		
-		</div>
-
 		<br><br>
 		<div class="client-container">
 			<div class="client hide">
-				<h3 class="title"></h3>
-				<p class="description"></p>
 				<img src="" alt="QR Code" id="qrcode">
-				<h3>Logs:</h3>
-				<ul class="logs"></ul>
 			</div>
 		</div>
-	</center>
 	</div>
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
