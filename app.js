@@ -6,6 +6,7 @@ const http = require('http');
 const fs = require('fs');
 const { phoneNumberFormatter } = require('./helpers/formatter');
 const axios = require('axios');
+const { response } = require('express');
 const port = process.env.PORT || 8000;
 
 const app = express();
@@ -183,14 +184,35 @@ io.on('connection', function(socket) {
   });
 });
 
+app.get('/valida-numero', async (req, res) => {
+  const sender = req.body.sender;
+  //const number = phoneNumberFormatter(req.body.number);
+
+ 
+const client = sessions.find(sess => sess.id == sender).client;
+await client.getNumberId('55988194779@c.us').then(function(isRegistered) {
+    if(isRegistered) {
+      var result = { "result": "ok" };
+      res.json(result);
+    }else {
+     console.log("Cliente nao tem whatsapp")
+    }
+})
+
+});
+
+
+
+
 
 // Send message
 app.post('/send-message', (req, res) => {
-  const sender = req.body.sender;
+  const sender = req.body.sender;s
   const number = phoneNumberFormatter(req.body.number);
   const message = req.body.message;
 
   const client = sessions.find(sess => sess.id == sender).client;
+
 
   client.sendMessage(number, message).then(response => {
     res.status(200).json({

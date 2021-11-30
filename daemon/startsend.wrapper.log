@@ -1,2 +1,1017 @@
 2021-09-23 19:27:40 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\PDEV\whatsapp-api-tutorial-master\app.js --scriptoptions= --log "startsend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
 2021-09-23 19:27:40 - Started 16608
+2021-09-23 23:54:44 - Stopping startsend.exe
+2021-09-23 23:54:44 - ProcessKill 16608
+2021-09-23 23:54:44 - Found child process: 21208 Name: conhost.exe
+2021-09-23 23:54:44 - Found child process: 21152 Name: node.exe
+2021-09-23 23:54:44 - Stopping process 21208
+2021-09-23 23:54:44 - Send SIGINT 21208
+2021-09-23 23:54:44 - SIGINT to 21208 failed - Killing as fallback
+2021-09-23 23:54:44 - Found child process: 22420 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 5968 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 8172 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 17304 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 12040 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 21676 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 13700 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 19872 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 10348 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 22548 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 19948 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 19236 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 15184 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 18048 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 3312 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 17336 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 23368 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 16648 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 12764 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 11004 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 14744 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 17616 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 10460 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 22324 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 19592 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 10724 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 16400 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 17764 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 20120 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 19132 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 21100 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 18420 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 10924 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 7536 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 15920 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 19436 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 7748 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 22376 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 17216 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 6664 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 21008 Name: chrome.exe
+2021-09-23 23:54:44 - Found child process: 20732 Name: chrome.exe
+2021-09-23 23:54:44 - Stopping process 20732
+2021-09-23 23:54:44 - Send SIGINT 20732
+2021-09-23 23:54:44 - SIGINT to 20732 failed - Killing as fallback
+2021-09-23 23:54:44 - Stopping process 21008
+2021-09-23 23:54:44 - Send SIGINT 21008
+2021-09-23 23:54:44 - SIGINT to 21008 failed - Killing as fallback
+2021-09-23 23:54:44 - Stopping process 22420
+2021-09-23 23:54:44 - Send SIGINT 22420
+2021-09-23 23:54:44 - SIGINT to 22420 failed - Killing as fallback
+2021-09-23 23:54:44 - Found child process: 15776 Name: chrome.exe
+2021-09-23 23:54:45 - Found child process: 18480 Name: chrome.exe
+2021-09-23 23:54:45 - Stopping process 18480
+2021-09-23 23:54:45 - Send SIGINT 18480
+2021-09-23 23:54:45 - SIGINT to 18480 failed - Killing as fallback
+2021-09-23 23:54:45 - Stopping process 15776
+2021-09-23 23:54:45 - Send SIGINT 15776
+2021-09-23 23:54:45 - SIGINT to 15776 failed - Killing as fallback
+2021-09-23 23:54:45 - Stopping process 5968
+2021-09-23 23:54:45 - Send SIGINT 5968
+2021-09-23 23:54:45 - SIGINT to 5968 failed - Killing as fallback
+2021-09-23 23:54:45 - Found child process: 17944 Name: chrome.exe
+2021-09-23 23:54:45 - Stopping process 17944
+2021-09-23 23:54:45 - Send SIGINT 17944
+2021-09-23 23:54:45 - SIGINT to 17944 failed - Killing as fallback
+2021-09-23 23:54:45 - Stopping process 8172
+2021-09-23 23:54:45 - Send SIGINT 8172
+2021-09-23 23:54:45 - SIGINT to 8172 failed - Killing as fallback
+2021-09-23 23:54:45 - Found child process: 15420 Name: chrome.exe
+2021-09-23 23:54:45 - Found child process: 16612 Name: chrome.exe
+2021-09-23 23:54:45 - Stopping process 16612
+2021-09-23 23:54:45 - Send SIGINT 16612
+2021-09-23 23:54:45 - SIGINT to 16612 failed - Killing as fallback
+2021-09-23 23:54:45 - Stopping process 15420
+2021-09-23 23:54:45 - Send SIGINT 15420
+2021-09-23 23:54:45 - SIGINT to 15420 failed - Killing as fallback
+2021-09-23 23:54:45 - Stopping process 17304
+2021-09-23 23:54:45 - Send SIGINT 17304
+2021-09-23 23:54:45 - SIGINT to 17304 failed - Killing as fallback
+2021-09-23 23:54:45 - Found child process: 1616 Name: chrome.exe
+2021-09-23 23:54:45 - Stopping process 1616
+2021-09-23 23:54:45 - Send SIGINT 1616
+2021-09-23 23:54:45 - SIGINT to 1616 failed - Killing as fallback
+2021-09-23 23:54:45 - Stopping process 12040
+2021-09-23 23:54:45 - Send SIGINT 12040
+2021-09-23 23:54:45 - SIGINT to 12040 failed - Killing as fallback
+2021-09-23 23:54:45 - Found child process: 8524 Name: chrome.exe
+2021-09-23 23:54:46 - Found child process: 11996 Name: chrome.exe
+2021-09-23 23:54:46 - Stopping process 11996
+2021-09-23 23:54:46 - Send SIGINT 11996
+2021-09-23 23:54:46 - SIGINT to 11996 failed - Killing as fallback
+2021-09-23 23:54:46 - Stopping process 8524
+2021-09-23 23:54:46 - Send SIGINT 8524
+2021-09-23 23:54:46 - SIGINT to 8524 failed - Killing as fallback
+2021-09-23 23:54:46 - Stopping process 21676
+2021-09-23 23:54:46 - Send SIGINT 21676
+2021-09-23 23:54:46 - SIGINT to 21676 failed - Killing as fallback
+2021-09-23 23:54:46 - Found child process: 11440 Name: chrome.exe
+2021-09-23 23:54:46 - Stopping process 11440
+2021-09-23 23:54:46 - Send SIGINT 11440
+2021-09-23 23:54:46 - SIGINT to 11440 failed - Killing as fallback
+2021-09-23 23:54:46 - Stopping process 13700
+2021-09-23 23:54:46 - Send SIGINT 13700
+2021-09-23 23:54:46 - SIGINT to 13700 failed - Killing as fallback
+2021-09-23 23:54:46 - Found child process: 21856 Name: chrome.exe
+2021-09-23 23:54:46 - Found child process: 9204 Name: chrome.exe
+2021-09-23 23:54:46 - Stopping process 9204
+2021-09-23 23:54:46 - Send SIGINT 9204
+2021-09-23 23:54:46 - SIGINT to 9204 failed - Killing as fallback
+2021-09-23 23:54:46 - Stopping process 21856
+2021-09-23 23:54:46 - Send SIGINT 21856
+2021-09-23 23:54:46 - SIGINT to 21856 failed - Killing as fallback
+2021-09-23 23:54:46 - Stopping process 19872
+2021-09-23 23:54:46 - Send SIGINT 19872
+2021-09-23 23:54:46 - SIGINT to 19872 failed - Killing as fallback
+2021-09-23 23:54:46 - Found child process: 21768 Name: chrome.exe
+2021-09-23 23:54:46 - Found child process: 10504 Name: chrome.exe
+2021-09-23 23:54:46 - Stopping process 10504
+2021-09-23 23:54:46 - Send SIGINT 10504
+2021-09-23 23:54:46 - SIGINT to 10504 failed - Killing as fallback
+2021-09-23 23:54:46 - Stopping process 21768
+2021-09-23 23:54:46 - Send SIGINT 21768
+2021-09-23 23:54:46 - SIGINT to 21768 failed - Killing as fallback
+2021-09-23 23:54:46 - Stopping process 10348
+2021-09-23 23:54:46 - Send SIGINT 10348
+2021-09-23 23:54:46 - SIGINT to 10348 failed - Killing as fallback
+2021-09-23 23:54:47 - Found child process: 16832 Name: chrome.exe
+2021-09-23 23:54:47 - Stopping process 16832
+2021-09-23 23:54:47 - Send SIGINT 16832
+2021-09-23 23:54:47 - SIGINT to 16832 failed - Killing as fallback
+2021-09-23 23:54:47 - Stopping process 22548
+2021-09-23 23:54:47 - Send SIGINT 22548
+2021-09-23 23:54:47 - SIGINT to 22548 failed - Killing as fallback
+2021-09-23 23:54:47 - Found child process: 21928 Name: chrome.exe
+2021-09-23 23:54:47 - Stopping process 21928
+2021-09-23 23:54:47 - Send SIGINT 21928
+2021-09-23 23:54:47 - SIGINT to 21928 failed - Killing as fallback
+2021-09-23 23:54:47 - Stopping process 19948
+2021-09-23 23:54:47 - Send SIGINT 19948
+2021-09-23 23:54:47 - SIGINT to 19948 failed - Killing as fallback
+2021-09-23 23:54:47 - Found child process: 16956 Name: chrome.exe
+2021-09-23 23:54:47 - Found child process: 18156 Name: chrome.exe
+2021-09-23 23:54:47 - Stopping process 18156
+2021-09-23 23:54:47 - Send SIGINT 18156
+2021-09-23 23:54:47 - SIGINT to 18156 failed - Killing as fallback
+2021-09-23 23:54:47 - Stopping process 16956
+2021-09-23 23:54:47 - Send SIGINT 16956
+2021-09-23 23:54:47 - SIGINT to 16956 failed - Killing as fallback
+2021-09-23 23:54:47 - Stopping process 19236
+2021-09-23 23:54:47 - Send SIGINT 19236
+2021-09-23 23:54:47 - SIGINT to 19236 failed - Killing as fallback
+2021-09-23 23:54:47 - Found child process: 12616 Name: chrome.exe
+2021-09-23 23:54:47 - Found child process: 15304 Name: chrome.exe
+2021-09-23 23:54:47 - Stopping process 15304
+2021-09-23 23:54:47 - Send SIGINT 15304
+2021-09-23 23:54:47 - SIGINT to 15304 failed - Killing as fallback
+2021-09-23 23:54:47 - Stopping process 12616
+2021-09-23 23:54:48 - Send SIGINT 12616
+2021-09-23 23:54:48 - SIGINT to 12616 failed - Killing as fallback
+2021-09-23 23:54:48 - Stopping process 15184
+2021-09-23 23:54:48 - Send SIGINT 15184
+2021-09-23 23:54:48 - SIGINT to 15184 failed - Killing as fallback
+2021-09-23 23:54:48 - Found child process: 17104 Name: chrome.exe
+2021-09-23 23:54:48 - Stopping process 17104
+2021-09-23 23:54:48 - Send SIGINT 17104
+2021-09-23 23:54:48 - SIGINT to 17104 failed - Killing as fallback
+2021-09-23 23:54:48 - Stopping process 18048
+2021-09-23 23:54:48 - Send SIGINT 18048
+2021-09-23 23:54:48 - SIGINT to 18048 failed - Killing as fallback
+2021-09-23 23:54:48 - Found child process: 17860 Name: chrome.exe
+2021-09-23 23:54:48 - Stopping process 17860
+2021-09-23 23:54:48 - Send SIGINT 17860
+2021-09-23 23:54:48 - SIGINT to 17860 failed - Killing as fallback
+2021-09-23 23:54:48 - Stopping process 3312
+2021-09-23 23:54:48 - Send SIGINT 3312
+2021-09-23 23:54:48 - SIGINT to 3312 failed - Killing as fallback
+2021-09-23 23:54:48 - Found child process: 17812 Name: chrome.exe
+2021-09-23 23:54:48 - Stopping process 17812
+2021-09-23 23:54:48 - Send SIGINT 17812
+2021-09-23 23:54:48 - SIGINT to 17812 failed - Killing as fallback
+2021-09-23 23:54:48 - Stopping process 17336
+2021-09-23 23:54:48 - Send SIGINT 17336
+2021-09-23 23:54:48 - SIGINT to 17336 failed - Killing as fallback
+2021-09-23 23:54:48 - Found child process: 20048 Name: chrome.exe
+2021-09-23 23:54:48 - Stopping process 20048
+2021-09-23 23:54:48 - Send SIGINT 20048
+2021-09-23 23:54:48 - SIGINT to 20048 failed - Killing as fallback
+2021-09-23 23:54:48 - Stopping process 23368
+2021-09-23 23:54:48 - Send SIGINT 23368
+2021-09-23 23:54:48 - SIGINT to 23368 failed - Killing as fallback
+2021-09-23 23:54:48 - Found child process: 10844 Name: chrome.exe
+2021-09-23 23:54:48 - Found child process: 7296 Name: chrome.exe
+2021-09-23 23:54:49 - Stopping process 7296
+2021-09-23 23:54:49 - Send SIGINT 7296
+2021-09-23 23:54:49 - SIGINT to 7296 failed - Killing as fallback
+2021-09-23 23:54:49 - Stopping process 10844
+2021-09-23 23:54:49 - Send SIGINT 10844
+2021-09-23 23:54:49 - SIGINT to 10844 failed - Killing as fallback
+2021-09-23 23:54:49 - Stopping process 16648
+2021-09-23 23:54:49 - Send SIGINT 16648
+2021-09-23 23:54:49 - SIGINT to 16648 failed - Killing as fallback
+2021-09-23 23:54:49 - Found child process: 19064 Name: chrome.exe
+2021-09-23 23:54:49 - Found child process: 5868 Name: chrome.exe
+2021-09-23 23:54:49 - Stopping process 5868
+2021-09-23 23:54:49 - Send SIGINT 5868
+2021-09-23 23:54:49 - SIGINT to 5868 failed - Killing as fallback
+2021-09-23 23:54:49 - Stopping process 19064
+2021-09-23 23:54:49 - Send SIGINT 19064
+2021-09-23 23:54:49 - SIGINT to 19064 failed - Killing as fallback
+2021-09-23 23:54:49 - Stopping process 12764
+2021-09-23 23:54:49 - Send SIGINT 12764
+2021-09-23 23:54:49 - SIGINT to 12764 failed - Killing as fallback
+2021-09-23 23:54:49 - Found child process: 10840 Name: chrome.exe
+2021-09-23 23:54:49 - Found child process: 3432 Name: chrome.exe
+2021-09-23 23:54:49 - Stopping process 3432
+2021-09-23 23:54:49 - Send SIGINT 3432
+2021-09-23 23:54:49 - SIGINT to 3432 failed - Killing as fallback
+2021-09-23 23:54:49 - Stopping process 10840
+2021-09-23 23:54:49 - Send SIGINT 10840
+2021-09-23 23:54:49 - SIGINT to 10840 failed - Killing as fallback
+2021-09-23 23:54:49 - Stopping process 11004
+2021-09-23 23:54:49 - Send SIGINT 11004
+2021-09-23 23:54:49 - SIGINT to 11004 failed - Killing as fallback
+2021-09-23 23:54:49 - Found child process: 22944 Name: chrome.exe
+2021-09-23 23:54:49 - Found child process: 21892 Name: chrome.exe
+2021-09-23 23:54:49 - Stopping process 21892
+2021-09-23 23:54:49 - Send SIGINT 21892
+2021-09-23 23:54:49 - SIGINT to 21892 failed - Killing as fallback
+2021-09-23 23:54:49 - Stopping process 22944
+2021-09-23 23:54:49 - Send SIGINT 22944
+2021-09-23 23:54:49 - SIGINT to 22944 failed - Killing as fallback
+2021-09-23 23:54:49 - Stopping process 14744
+2021-09-23 23:54:49 - Send SIGINT 14744
+2021-09-23 23:54:49 - SIGINT to 14744 failed - Killing as fallback
+2021-09-23 23:54:49 - Found child process: 17156 Name: chrome.exe
+2021-09-23 23:54:50 - Stopping process 17156
+2021-09-23 23:54:50 - Send SIGINT 17156
+2021-09-23 23:54:50 - SIGINT to 17156 failed - Killing as fallback
+2021-09-23 23:54:50 - Stopping process 17616
+2021-09-23 23:54:50 - Send SIGINT 17616
+2021-09-23 23:54:50 - SIGINT to 17616 failed - Killing as fallback
+2021-09-23 23:54:50 - Found child process: 16740 Name: chrome.exe
+2021-09-23 23:54:50 - Found child process: 14024 Name: chrome.exe
+2021-09-23 23:54:50 - Stopping process 14024
+2021-09-23 23:54:50 - Send SIGINT 14024
+2021-09-23 23:54:50 - SIGINT to 14024 failed - Killing as fallback
+2021-09-23 23:54:50 - Stopping process 16740
+2021-09-23 23:54:50 - Send SIGINT 16740
+2021-09-23 23:54:50 - SIGINT to 16740 failed - Killing as fallback
+2021-09-23 23:54:50 - Stopping process 10460
+2021-09-23 23:54:50 - Send SIGINT 10460
+2021-09-23 23:54:50 - SIGINT to 10460 failed - Killing as fallback
+2021-09-23 23:54:50 - Found child process: 22588 Name: chrome.exe
+2021-09-23 23:54:50 - Found child process: 5496 Name: chrome.exe
+2021-09-23 23:54:50 - Stopping process 5496
+2021-09-23 23:54:50 - Send SIGINT 5496
+2021-09-23 23:54:50 - SIGINT to 5496 failed - Killing as fallback
+2021-09-23 23:54:50 - Stopping process 22588
+2021-09-23 23:54:50 - Send SIGINT 22588
+2021-09-23 23:54:50 - SIGINT to 22588 failed - Killing as fallback
+2021-09-23 23:54:50 - Stopping process 22324
+2021-09-23 23:54:50 - Send SIGINT 22324
+2021-09-23 23:54:50 - SIGINT to 22324 failed - Killing as fallback
+2021-09-23 23:54:50 - Found child process: 13420 Name: chrome.exe
+2021-09-23 23:54:50 - Found child process: 9172 Name: chrome.exe
+2021-09-23 23:54:50 - Stopping process 9172
+2021-09-23 23:54:50 - Send SIGINT 9172
+2021-09-23 23:54:50 - SIGINT to 9172 failed - Killing as fallback
+2021-09-23 23:54:50 - Stopping process 13420
+2021-09-23 23:54:50 - Send SIGINT 13420
+2021-09-23 23:54:50 - SIGINT to 13420 failed - Killing as fallback
+2021-09-23 23:54:50 - Stopping process 19592
+2021-09-23 23:54:50 - Send SIGINT 19592
+2021-09-23 23:54:50 - SIGINT to 19592 failed - Killing as fallback
+2021-09-23 23:54:50 - Found child process: 10640 Name: chrome.exe
+2021-09-23 23:54:50 - Stopping process 10640
+2021-09-23 23:54:50 - Send SIGINT 10640
+2021-09-23 23:54:50 - SIGINT to 10640 failed - Killing as fallback
+2021-09-23 23:54:50 - Stopping process 10724
+2021-09-23 23:54:50 - Send SIGINT 10724
+2021-09-23 23:54:50 - SIGINT to 10724 failed - Killing as fallback
+2021-09-23 23:54:51 - Found child process: 5104 Name: chrome.exe
+2021-09-23 23:54:51 - Stopping process 5104
+2021-09-23 23:54:51 - Send SIGINT 5104
+2021-09-23 23:54:51 - SIGINT to 5104 failed - Killing as fallback
+2021-09-23 23:54:51 - Stopping process 16400
+2021-09-23 23:54:51 - Send SIGINT 16400
+2021-09-23 23:54:51 - SIGINT to 16400 failed - Killing as fallback
+2021-09-23 23:54:51 - Found child process: 16472 Name: chrome.exe
+2021-09-23 23:54:51 - Found child process: 14360 Name: chrome.exe
+2021-09-23 23:54:51 - Stopping process 14360
+2021-09-23 23:54:51 - Send SIGINT 14360
+2021-09-23 23:54:51 - SIGINT to 14360 failed - Killing as fallback
+2021-09-23 23:54:51 - Stopping process 16472
+2021-09-23 23:54:51 - Send SIGINT 16472
+2021-09-23 23:54:51 - SIGINT to 16472 failed - Killing as fallback
+2021-09-23 23:54:51 - Stopping process 17764
+2021-09-23 23:54:51 - Send SIGINT 17764
+2021-09-23 23:54:51 - SIGINT to 17764 failed - Killing as fallback
+2021-09-23 23:54:51 - Found child process: 23180 Name: chrome.exe
+2021-09-23 23:54:51 - Stopping process 23180
+2021-09-23 23:54:51 - Send SIGINT 23180
+2021-09-23 23:54:51 - SIGINT to 23180 failed - Killing as fallback
+2021-09-23 23:54:51 - Stopping process 20120
+2021-09-23 23:54:51 - Send SIGINT 20120
+2021-09-23 23:54:51 - SIGINT to 20120 failed - Killing as fallback
+2021-09-23 23:54:51 - Found child process: 20644 Name: chrome.exe
+2021-09-23 23:54:51 - Stopping process 20644
+2021-09-23 23:54:51 - Send SIGINT 20644
+2021-09-23 23:54:51 - SIGINT to 20644 failed - Killing as fallback
+2021-09-23 23:54:51 - Stopping process 19132
+2021-09-23 23:54:51 - Send SIGINT 19132
+2021-09-23 23:54:51 - SIGINT to 19132 failed - Killing as fallback
+2021-09-23 23:54:51 - Found child process: 20212 Name: chrome.exe
+2021-09-23 23:54:51 - Stopping process 20212
+2021-09-23 23:54:51 - Send SIGINT 20212
+2021-09-23 23:54:51 - SIGINT to 20212 failed - Killing as fallback
+2021-09-23 23:54:51 - Stopping process 21100
+2021-09-23 23:54:51 - Send SIGINT 21100
+2021-09-23 23:54:51 - SIGINT to 21100 failed - Killing as fallback
+2021-09-23 23:54:51 - Found child process: 13400 Name: chrome.exe
+2021-09-23 23:54:51 - Stopping process 13400
+2021-09-23 23:54:51 - Send SIGINT 13400
+2021-09-23 23:54:51 - SIGINT to 13400 failed - Killing as fallback
+2021-09-23 23:54:51 - Stopping process 18420
+2021-09-23 23:54:51 - Send SIGINT 18420
+2021-09-23 23:54:51 - SIGINT to 18420 failed - Killing as fallback
+2021-09-23 23:54:52 - Found child process: 17924 Name: chrome.exe
+2021-09-23 23:54:52 - Found child process: 13564 Name: chrome.exe
+2021-09-23 23:54:52 - Stopping process 13564
+2021-09-23 23:54:52 - Send SIGINT 13564
+2021-09-23 23:54:52 - SIGINT to 13564 failed - Killing as fallback
+2021-09-23 23:54:52 - Stopping process 17924
+2021-09-23 23:54:52 - Send SIGINT 17924
+2021-09-23 23:54:52 - SIGINT to 17924 failed - Killing as fallback
+2021-09-23 23:54:52 - Stopping process 10924
+2021-09-23 23:54:52 - Send SIGINT 10924
+2021-09-23 23:54:52 - SIGINT to 10924 failed - Killing as fallback
+2021-09-23 23:54:52 - Found child process: 22824 Name: chrome.exe
+2021-09-23 23:54:52 - Found child process: 22412 Name: chrome.exe
+2021-09-23 23:54:52 - Stopping process 22412
+2021-09-23 23:54:52 - Send SIGINT 22412
+2021-09-23 23:54:52 - SIGINT to 22412 failed - Killing as fallback
+2021-09-23 23:54:52 - Stopping process 22824
+2021-09-23 23:54:52 - Send SIGINT 22824
+2021-09-23 23:54:52 - SIGINT to 22824 failed - Killing as fallback
+2021-09-23 23:54:52 - Stopping process 7536
+2021-09-23 23:54:52 - Send SIGINT 7536
+2021-09-23 23:54:52 - SIGINT to 7536 failed - Killing as fallback
+2021-09-23 23:54:52 - Found child process: 22100 Name: chrome.exe
+2021-09-23 23:54:52 - Stopping process 22100
+2021-09-23 23:54:52 - Send SIGINT 22100
+2021-09-23 23:54:52 - SIGINT to 22100 failed - Killing as fallback
+2021-09-23 23:54:52 - Stopping process 15920
+2021-09-23 23:54:52 - Send SIGINT 15920
+2021-09-23 23:54:52 - SIGINT to 15920 failed - Killing as fallback
+2021-09-23 23:54:52 - Found child process: 21492 Name: chrome.exe
+2021-09-23 23:54:52 - Found child process: 15044 Name: chrome.exe
+2021-09-23 23:54:52 - Stopping process 15044
+2021-09-23 23:54:52 - Send SIGINT 15044
+2021-09-23 23:54:52 - SIGINT to 15044 failed - Killing as fallback
+2021-09-23 23:54:52 - Stopping process 21492
+2021-09-23 23:54:52 - Send SIGINT 21492
+2021-09-23 23:54:52 - SIGINT to 21492 failed - Killing as fallback
+2021-09-23 23:54:52 - Stopping process 19436
+2021-09-23 23:54:52 - Send SIGINT 19436
+2021-09-23 23:54:52 - SIGINT to 19436 failed - Killing as fallback
+2021-09-23 23:54:52 - Found child process: 12108 Name: chrome.exe
+2021-09-23 23:54:52 - Stopping process 12108
+2021-09-23 23:54:52 - Send SIGINT 12108
+2021-09-23 23:54:52 - SIGINT to 12108 failed - Killing as fallback
+2021-09-23 23:54:52 - Stopping process 7748
+2021-09-23 23:54:52 - Send SIGINT 7748
+2021-09-23 23:54:52 - SIGINT to 7748 failed - Killing as fallback
+2021-09-23 23:54:53 - Found child process: 17248 Name: chrome.exe
+2021-09-23 23:54:53 - Found child process: 19220 Name: chrome.exe
+2021-09-23 23:54:53 - Stopping process 19220
+2021-09-23 23:54:53 - Send SIGINT 19220
+2021-09-23 23:54:53 - SIGINT to 19220 failed - Killing as fallback
+2021-09-23 23:54:53 - Stopping process 17248
+2021-09-23 23:54:53 - Send SIGINT 17248
+2021-09-23 23:54:53 - SIGINT to 17248 failed - Killing as fallback
+2021-09-23 23:54:53 - Stopping process 22376
+2021-09-23 23:54:53 - Send SIGINT 22376
+2021-09-23 23:54:53 - SIGINT to 22376 failed - Killing as fallback
+2021-09-23 23:54:53 - Found child process: 21476 Name: chrome.exe
+2021-09-23 23:54:53 - Stopping process 21476
+2021-09-23 23:54:53 - Send SIGINT 21476
+2021-09-23 23:54:53 - SIGINT to 21476 failed - Killing as fallback
+2021-09-23 23:54:53 - Stopping process 17216
+2021-09-23 23:54:53 - Send SIGINT 17216
+2021-09-23 23:54:53 - SIGINT to 17216 failed - Killing as fallback
+2021-09-23 23:54:53 - Found child process: 7160 Name: chrome.exe
+2021-09-23 23:54:53 - Stopping process 7160
+2021-09-23 23:54:53 - Send SIGINT 7160
+2021-09-23 23:54:53 - SIGINT to 7160 failed - Killing as fallback
+2021-09-23 23:54:53 - Stopping process 6664
+2021-09-23 23:54:53 - Send SIGINT 6664
+2021-09-23 23:54:53 - SIGINT to 6664 failed - Killing as fallback
+2021-09-23 23:54:53 - Stopping process 21152
+2021-09-23 23:54:53 - Send SIGINT 21152
+2021-09-23 23:54:53 - SIGINT to 21152 failed - Killing as fallback
+2021-09-23 23:54:53 - Stopping process 16608
+2021-09-23 23:54:53 - Send SIGINT 16608
+2021-09-23 23:54:53 - SIGINT to 16608 failed - Killing as fallback
+2021-09-23 23:54:53 - Finished startsend.exe
+2021-09-24 00:12:50 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\PDEV\whatsapp-api-tutorial-master\app.js --scriptoptions= --log "startsend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-24 00:12:50 - Started 6712
+2021-09-28 09:59:46 - Stopping startsend.exe
+2021-09-28 09:59:46 - ProcessKill 6712
+2021-09-28 09:59:46 - Found child process: 7004 Name: conhost.exe
+2021-09-28 09:59:46 - Found child process: 7412 Name: node.exe
+2021-09-28 09:59:46 - Stopping process 7004
+2021-09-28 09:59:46 - Send SIGINT 7004
+2021-09-28 09:59:46 - SIGINT to 7004 failed - Killing as fallback
+2021-09-28 09:59:46 - Found child process: 5132 Name: chrome.exe
+2021-09-28 09:59:46 - Found child process: 5428 Name: chrome.exe
+2021-09-28 09:59:46 - Found child process: 6432 Name: chrome.exe
+2021-09-28 09:59:46 - Found child process: 6768 Name: chrome.exe
+2021-09-28 09:59:46 - Found child process: 1068 Name: chrome.exe
+2021-09-28 09:59:46 - Found child process: 3460 Name: chrome.exe
+2021-09-28 09:59:46 - Found child process: 4664 Name: chrome.exe
+2021-09-28 09:59:46 - Found child process: 7400 Name: chrome.exe
+2021-09-28 09:59:46 - Found child process: 1164 Name: chrome.exe
+2021-09-28 09:59:46 - Found child process: 7940 Name: chrome.exe
+2021-09-28 09:59:46 - Found child process: 2296 Name: chrome.exe
+2021-09-28 09:59:46 - Found child process: 436 Name: chrome.exe
+2021-09-28 09:59:46 - Found child process: 7784 Name: chrome.exe
+2021-09-28 09:59:46 - Found child process: 9672 Name: chrome.exe
+2021-09-28 09:59:46 - Found child process: 1104 Name: chrome.exe
+2021-09-28 09:59:46 - Found child process: 1980 Name: chrome.exe
+2021-09-28 09:59:47 - Found child process: 1108 Name: chrome.exe
+2021-09-28 09:59:47 - Stopping process 1108
+2021-09-28 09:59:47 - Send SIGINT 1108
+2021-09-28 09:59:47 - SIGINT to 1108 failed - Killing as fallback
+2021-09-28 09:59:47 - Stopping process 1980
+2021-09-28 09:59:47 - Send SIGINT 1980
+2021-09-28 09:59:47 - SIGINT to 1980 failed - Killing as fallback
+2021-09-28 09:59:47 - Stopping process 5132
+2021-09-28 09:59:47 - Send SIGINT 5132
+2021-09-28 09:59:47 - SIGINT to 5132 failed - Killing as fallback
+2021-09-28 09:59:47 - Found child process: 7016 Name: chrome.exe
+2021-09-28 09:59:47 - Found child process: 7904 Name: chrome.exe
+2021-09-28 09:59:47 - Stopping process 7904
+2021-09-28 09:59:47 - Send SIGINT 7904
+2021-09-28 09:59:47 - SIGINT to 7904 failed - Killing as fallback
+2021-09-28 09:59:47 - Stopping process 7016
+2021-09-28 09:59:47 - Send SIGINT 7016
+2021-09-28 09:59:47 - SIGINT to 7016 failed - Killing as fallback
+2021-09-28 09:59:47 - Stopping process 5428
+2021-09-28 09:59:47 - Send SIGINT 5428
+2021-09-28 09:59:47 - SIGINT to 5428 failed - Killing as fallback
+2021-09-28 09:59:47 - Found child process: 5052 Name: chrome.exe
+2021-09-28 09:59:47 - Found child process: 488 Name: chrome.exe
+2021-09-28 09:59:47 - Stopping process 488
+2021-09-28 09:59:47 - Send SIGINT 488
+2021-09-28 09:59:47 - SIGINT to 488 failed - Killing as fallback
+2021-09-28 09:59:47 - Stopping process 5052
+2021-09-28 09:59:47 - Send SIGINT 5052
+2021-09-28 09:59:47 - SIGINT to 5052 failed - Killing as fallback
+2021-09-28 09:59:47 - Stopping process 6432
+2021-09-28 09:59:47 - Send SIGINT 6432
+2021-09-28 09:59:47 - SIGINT to 6432 failed - Killing as fallback
+2021-09-28 09:59:47 - Found child process: 5972 Name: chrome.exe
+2021-09-28 09:59:47 - Stopping process 5972
+2021-09-28 09:59:47 - Send SIGINT 5972
+2021-09-28 09:59:47 - SIGINT to 5972 failed - Killing as fallback
+2021-09-28 09:59:47 - Stopping process 6768
+2021-09-28 09:59:47 - Send SIGINT 6768
+2021-09-28 09:59:47 - SIGINT to 6768 failed - Killing as fallback
+2021-09-28 09:59:47 - Found child process: 8052 Name: chrome.exe
+2021-09-28 09:59:47 - Stopping process 8052
+2021-09-28 09:59:47 - Send SIGINT 8052
+2021-09-28 09:59:47 - SIGINT to 8052 failed - Killing as fallback
+2021-09-28 09:59:47 - Stopping process 1068
+2021-09-28 09:59:47 - Send SIGINT 1068
+2021-09-28 09:59:47 - SIGINT to 1068 failed - Killing as fallback
+2021-09-28 09:59:47 - Found child process: 5508 Name: chrome.exe
+2021-09-28 09:59:47 - Found child process: 7848 Name: chrome.exe
+2021-09-28 09:59:48 - Stopping process 7848
+2021-09-28 09:59:48 - Send SIGINT 7848
+2021-09-28 09:59:48 - SIGINT to 7848 failed - Killing as fallback
+2021-09-28 09:59:48 - Stopping process 5508
+2021-09-28 09:59:48 - Send SIGINT 5508
+2021-09-28 09:59:48 - SIGINT to 5508 failed - Killing as fallback
+2021-09-28 09:59:48 - Stopping process 3460
+2021-09-28 09:59:48 - Send SIGINT 3460
+2021-09-28 09:59:48 - SIGINT to 3460 failed - Killing as fallback
+2021-09-28 09:59:48 - Found child process: 2920 Name: chrome.exe
+2021-09-28 09:59:48 - Found child process: 5280 Name: chrome.exe
+2021-09-28 09:59:48 - Stopping process 5280
+2021-09-28 09:59:48 - Send SIGINT 5280
+2021-09-28 09:59:48 - SIGINT to 5280 failed - Killing as fallback
+2021-09-28 09:59:48 - Stopping process 2920
+2021-09-28 09:59:48 - Send SIGINT 2920
+2021-09-28 09:59:48 - SIGINT to 2920 failed - Killing as fallback
+2021-09-28 09:59:48 - Stopping process 4664
+2021-09-28 09:59:48 - Send SIGINT 4664
+2021-09-28 09:59:48 - SIGINT to 4664 failed - Killing as fallback
+2021-09-28 09:59:48 - Found child process: 4660 Name: chrome.exe
+2021-09-28 09:59:48 - Stopping process 4660
+2021-09-28 09:59:48 - Send SIGINT 4660
+2021-09-28 09:59:48 - SIGINT to 4660 failed - Killing as fallback
+2021-09-28 09:59:48 - Stopping process 7400
+2021-09-28 09:59:48 - Send SIGINT 7400
+2021-09-28 09:59:48 - SIGINT to 7400 failed - Killing as fallback
+2021-09-28 09:59:48 - Found child process: 7196 Name: chrome.exe
+2021-09-28 09:59:48 - Found child process: 5172 Name: chrome.exe
+2021-09-28 09:59:48 - Stopping process 5172
+2021-09-28 09:59:48 - Send SIGINT 5172
+2021-09-28 09:59:48 - SIGINT to 5172 failed - Killing as fallback
+2021-09-28 09:59:48 - Stopping process 7196
+2021-09-28 09:59:48 - Send SIGINT 7196
+2021-09-28 09:59:48 - SIGINT to 7196 failed - Killing as fallback
+2021-09-28 09:59:48 - Stopping process 1164
+2021-09-28 09:59:48 - Send SIGINT 1164
+2021-09-28 09:59:48 - SIGINT to 1164 failed - Killing as fallback
+2021-09-28 09:59:48 - Found child process: 1444 Name: chrome.exe
+2021-09-28 09:59:48 - Stopping process 1444
+2021-09-28 09:59:48 - Send SIGINT 1444
+2021-09-28 09:59:48 - SIGINT to 1444 failed - Killing as fallback
+2021-09-28 09:59:48 - Stopping process 7940
+2021-09-28 09:59:48 - Send SIGINT 7940
+2021-09-28 09:59:48 - SIGINT to 7940 failed - Killing as fallback
+2021-09-28 09:59:48 - Found child process: 8960 Name: chrome.exe
+2021-09-28 09:59:48 - Found child process: 6984 Name: chrome.exe
+2021-09-28 09:59:48 - Stopping process 6984
+2021-09-28 09:59:48 - Send SIGINT 6984
+2021-09-28 09:59:48 - SIGINT to 6984 failed - Killing as fallback
+2021-09-28 09:59:48 - Stopping process 8960
+2021-09-28 09:59:48 - Send SIGINT 8960
+2021-09-28 09:59:48 - SIGINT to 8960 failed - Killing as fallback
+2021-09-28 09:59:48 - Stopping process 2296
+2021-09-28 09:59:48 - Send SIGINT 2296
+2021-09-28 09:59:48 - SIGINT to 2296 failed - Killing as fallback
+2021-09-28 09:59:48 - Found child process: 1208 Name: chrome.exe
+2021-09-28 09:59:48 - Found child process: 6784 Name: chrome.exe
+2021-09-28 09:59:48 - Stopping process 6784
+2021-09-28 09:59:48 - Send SIGINT 6784
+2021-09-28 09:59:48 - SIGINT to 6784 failed - Killing as fallback
+2021-09-28 09:59:48 - Stopping process 1208
+2021-09-28 09:59:48 - Send SIGINT 1208
+2021-09-28 09:59:48 - SIGINT to 1208 failed - Killing as fallback
+2021-09-28 09:59:48 - Stopping process 436
+2021-09-28 09:59:48 - Send SIGINT 436
+2021-09-28 09:59:48 - SIGINT to 436 failed - Killing as fallback
+2021-09-28 09:59:48 - Found child process: 11316 Name: chrome.exe
+2021-09-28 09:59:49 - Found child process: 10864 Name: chrome.exe
+2021-09-28 09:59:49 - Stopping process 10864
+2021-09-28 09:59:49 - Send SIGINT 10864
+2021-09-28 09:59:49 - SIGINT to 10864 failed - Killing as fallback
+2021-09-28 09:59:49 - Stopping process 11316
+2021-09-28 09:59:49 - Send SIGINT 11316
+2021-09-28 09:59:49 - SIGINT to 11316 failed - Killing as fallback
+2021-09-28 09:59:49 - Stopping process 7784
+2021-09-28 09:59:49 - Send SIGINT 7784
+2021-09-28 09:59:49 - SIGINT to 7784 failed - Killing as fallback
+2021-09-28 09:59:49 - Found child process: 9476 Name: chrome.exe
+2021-09-28 09:59:49 - Found child process: 14308 Name: chrome.exe
+2021-09-28 09:59:49 - Stopping process 14308
+2021-09-28 09:59:49 - Send SIGINT 14308
+2021-09-28 09:59:49 - SIGINT to 14308 failed - Killing as fallback
+2021-09-28 09:59:49 - Stopping process 9476
+2021-09-28 09:59:49 - Send SIGINT 9476
+2021-09-28 09:59:49 - SIGINT to 9476 failed - Killing as fallback
+2021-09-28 09:59:49 - Stopping process 9672
+2021-09-28 09:59:49 - Send SIGINT 9672
+2021-09-28 09:59:49 - SIGINT to 9672 failed - Killing as fallback
+2021-09-28 09:59:49 - Found child process: 9848 Name: chrome.exe
+2021-09-28 09:59:49 - Found child process: 14084 Name: chrome.exe
+2021-09-28 09:59:49 - Stopping process 14084
+2021-09-28 09:59:49 - Send SIGINT 14084
+2021-09-28 09:59:49 - SIGINT to 14084 failed - Killing as fallback
+2021-09-28 09:59:49 - Stopping process 9848
+2021-09-28 09:59:49 - Send SIGINT 9848
+2021-09-28 09:59:49 - SIGINT to 9848 failed - Killing as fallback
+2021-09-28 09:59:49 - Stopping process 1104
+2021-09-28 09:59:49 - Send SIGINT 1104
+2021-09-28 09:59:49 - SIGINT to 1104 failed - Killing as fallback
+2021-09-28 09:59:49 - Stopping process 7412
+2021-09-28 09:59:49 - Send SIGINT 7412
+2021-09-28 09:59:49 - SIGINT to 7412 failed - Killing as fallback
+2021-09-28 09:59:49 - Stopping process 6712
+2021-09-28 09:59:49 - Send SIGINT 6712
+2021-09-28 09:59:49 - SIGINT to 6712 failed - Killing as fallback
+2021-09-28 09:59:49 - Finished startsend.exe
+2021-10-07 17:36:56 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\PDEV\whatsapp-api-tutorial-master\app.js --scriptoptions= --log "startsend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-07 17:36:56 - Started 4888
+2021-10-08 20:00:31 - Stopping startsend.exe
+2021-10-08 20:00:31 - ProcessKill 4888
+2021-10-08 20:00:32 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-10-08 20:43:01 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\PDEV\whatsapp-api-tutorial-master\app.js --scriptoptions= --log "startsend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-08 20:43:01 - Started 4936
+2021-10-11 08:30:05 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\PDEV\whatsapp-api-tutorial-master\app.js --scriptoptions= --log "startsend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-11 08:30:05 - Started 4960
+2021-10-11 08:50:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\PDEV\whatsapp-api-tutorial-master\app.js --scriptoptions= --log "startsend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-11 08:50:11 - Started 5060
+2021-10-11 22:31:43 - Stopping startsend.exe
+2021-10-11 22:31:43 - ProcessKill 5060
+2021-10-11 22:31:43 - Found child process: 5092 Name: conhost.exe
+2021-10-11 22:31:43 - Found child process: 5428 Name: node.exe
+2021-10-11 22:31:43 - Stopping process 5092
+2021-10-11 22:31:43 - Send SIGINT 5092
+2021-10-11 22:31:43 - SIGINT to 5092 failed - Killing as fallback
+2021-10-11 22:31:43 - Found child process: 5496 Name: chrome.exe
+2021-10-11 22:31:43 - Found child process: 5452 Name: chrome.exe
+2021-10-11 22:31:43 - Found child process: 5436 Name: chrome.exe
+2021-10-11 22:31:43 - Found child process: 5368 Name: chrome.exe
+2021-10-11 22:31:43 - Found child process: 5532 Name: chrome.exe
+2021-10-11 22:31:43 - Found child process: 5540 Name: chrome.exe
+2021-10-11 22:31:43 - Found child process: 5516 Name: chrome.exe
+2021-10-11 22:31:43 - Found child process: 5592 Name: chrome.exe
+2021-10-11 22:31:43 - Found child process: 5628 Name: chrome.exe
+2021-10-11 22:31:43 - Found child process: 5620 Name: chrome.exe
+2021-10-11 22:31:43 - Found child process: 5672 Name: chrome.exe
+2021-10-11 22:31:43 - Found child process: 5692 Name: chrome.exe
+2021-10-11 22:31:43 - Found child process: 6184 Name: chrome.exe
+2021-10-11 22:31:43 - Stopping process 6184
+2021-10-11 22:31:43 - Send SIGINT 6184
+2021-10-11 22:31:43 - SIGINT to 6184 failed - Killing as fallback
+2021-10-11 22:31:43 - Stopping process 5692
+2021-10-11 22:31:43 - Send SIGINT 5692
+2021-10-11 22:31:43 - SIGINT to 5692 failed - Killing as fallback
+2021-10-11 22:31:43 - Stopping process 5496
+2021-10-11 22:31:43 - Send SIGINT 5496
+2021-10-11 22:31:43 - SIGINT to 5496 failed - Killing as fallback
+2021-10-11 22:31:43 - Found child process: 5680 Name: chrome.exe
+2021-10-11 22:31:43 - Found child process: 5032 Name: chrome.exe
+2021-10-11 22:31:44 - Stopping process 5032
+2021-10-11 22:31:44 - Send SIGINT 5032
+2021-10-11 22:31:44 - SIGINT to 5032 failed - Killing as fallback
+2021-10-11 22:31:44 - Stopping process 5680
+2021-10-11 22:31:44 - Send SIGINT 5680
+2021-10-11 22:31:44 - SIGINT to 5680 failed - Killing as fallback
+2021-10-11 22:31:44 - Stopping process 5452
+2021-10-11 22:31:44 - Send SIGINT 5452
+2021-10-11 22:31:44 - SIGINT to 5452 failed - Killing as fallback
+2021-10-11 22:31:44 - Found child process: 5700 Name: chrome.exe
+2021-10-11 22:31:44 - Stopping process 5700
+2021-10-11 22:31:44 - Send SIGINT 5700
+2021-10-11 22:31:44 - SIGINT to 5700 failed - Killing as fallback
+2021-10-11 22:31:44 - Stopping process 5436
+2021-10-11 22:31:44 - Send SIGINT 5436
+2021-10-11 22:31:44 - SIGINT to 5436 failed - Killing as fallback
+2021-10-11 22:31:44 - Found child process: 5660 Name: chrome.exe
+2021-10-11 22:31:44 - Stopping process 5660
+2021-10-11 22:31:44 - Send SIGINT 5660
+2021-10-11 22:31:44 - SIGINT to 5660 failed - Killing as fallback
+2021-10-11 22:31:44 - Stopping process 5368
+2021-10-11 22:31:44 - Send SIGINT 5368
+2021-10-11 22:31:44 - SIGINT to 5368 failed - Killing as fallback
+2021-10-11 22:31:44 - Found child process: 5720 Name: chrome.exe
+2021-10-11 22:31:44 - Stopping process 5720
+2021-10-11 22:31:44 - Send SIGINT 5720
+2021-10-11 22:31:44 - SIGINT to 5720 failed - Killing as fallback
+2021-10-11 22:31:44 - Stopping process 5532
+2021-10-11 22:31:44 - Send SIGINT 5532
+2021-10-11 22:31:44 - SIGINT to 5532 failed - Killing as fallback
+2021-10-11 22:31:44 - Found child process: 5576 Name: chrome.exe
+2021-10-11 22:31:44 - Found child process: 5828 Name: chrome.exe
+2021-10-11 22:31:44 - Stopping process 5828
+2021-10-11 22:31:44 - Send SIGINT 5828
+2021-10-11 22:31:44 - SIGINT to 5828 failed - Killing as fallback
+2021-10-11 22:31:44 - Stopping process 5576
+2021-10-11 22:31:44 - Send SIGINT 5576
+2021-10-11 22:31:44 - SIGINT to 5576 failed - Killing as fallback
+2021-10-11 22:31:44 - Stopping process 5540
+2021-10-11 22:31:44 - Send SIGINT 5540
+2021-10-11 22:31:44 - SIGINT to 5540 failed - Killing as fallback
+2021-10-11 22:31:44 - Found child process: 5644 Name: chrome.exe
+2021-10-11 22:31:44 - Stopping process 5644
+2021-10-11 22:31:44 - Send SIGINT 5644
+2021-10-11 22:31:44 - SIGINT to 5644 failed - Killing as fallback
+2021-10-11 22:31:44 - Stopping process 5516
+2021-10-11 22:31:44 - Send SIGINT 5516
+2021-10-11 22:31:44 - SIGINT to 5516 failed - Killing as fallback
+2021-10-11 22:31:44 - Found child process: 5656 Name: chrome.exe
+2021-10-11 22:31:44 - Found child process: 6088 Name: chrome.exe
+2021-10-11 22:31:44 - Stopping process 6088
+2021-10-11 22:31:44 - Send SIGINT 6088
+2021-10-11 22:31:44 - SIGINT to 6088 failed - Killing as fallback
+2021-10-11 22:31:44 - Stopping process 5656
+2021-10-11 22:31:44 - Send SIGINT 5656
+2021-10-11 22:31:44 - SIGINT to 5656 failed - Killing as fallback
+2021-10-11 22:31:44 - Stopping process 5592
+2021-10-11 22:31:44 - Send SIGINT 5592
+2021-10-11 22:31:44 - SIGINT to 5592 failed - Killing as fallback
+2021-10-11 22:31:44 - Found child process: 5728 Name: chrome.exe
+2021-10-11 22:31:44 - Stopping process 5728
+2021-10-11 22:31:44 - Send SIGINT 5728
+2021-10-11 22:31:44 - SIGINT to 5728 failed - Killing as fallback
+2021-10-11 22:31:44 - Stopping process 5628
+2021-10-11 22:31:44 - Send SIGINT 5628
+2021-10-11 22:31:44 - SIGINT to 5628 failed - Killing as fallback
+2021-10-11 22:31:45 - Found child process: 5704 Name: chrome.exe
+2021-10-11 22:31:45 - Stopping process 5704
+2021-10-11 22:31:45 - Send SIGINT 5704
+2021-10-11 22:31:45 - SIGINT to 5704 failed - Killing as fallback
+2021-10-11 22:31:45 - Stopping process 5620
+2021-10-11 22:31:45 - Send SIGINT 5620
+2021-10-11 22:31:45 - SIGINT to 5620 failed - Killing as fallback
+2021-10-11 22:31:45 - Found child process: 6024 Name: chrome.exe
+2021-10-11 22:31:45 - Stopping process 6024
+2021-10-11 22:31:45 - Send SIGINT 6024
+2021-10-11 22:31:45 - SIGINT to 6024 failed - Killing as fallback
+2021-10-11 22:31:45 - Stopping process 5672
+2021-10-11 22:31:45 - Send SIGINT 5672
+2021-10-11 22:31:45 - SIGINT to 5672 failed - Killing as fallback
+2021-10-11 22:31:45 - Stopping process 5428
+2021-10-11 22:31:45 - Send SIGINT 5428
+2021-10-11 22:31:45 - SIGINT to 5428 failed - Killing as fallback
+2021-10-11 22:31:45 - Stopping process 5060
+2021-10-11 22:31:45 - Send SIGINT 5060
+2021-10-11 22:31:45 - SIGINT to 5060 failed - Killing as fallback
+2021-10-11 22:31:45 - Finished startsend.exe
+2021-10-18 22:09:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\PDEV\whatsapp-api-tutorial-master\app.js --scriptoptions= --log "startsend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-18 22:09:02 - Started 5040
+2021-10-18 22:35:36 - Stopping startsend.exe
+2021-10-18 22:35:36 - ProcessKill 5040
+2021-10-18 22:35:36 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-10-18 22:36:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\PDEV\whatsapp-api-tutorial-master\app.js --scriptoptions= --log "startsend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-18 22:36:35 - Started 4744
+2021-10-18 22:45:39 - Stopping startsend.exe
+2021-10-18 22:45:39 - ProcessKill 4744
+2021-10-18 22:45:39 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-10-18 22:46:32 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\PDEV\whatsapp-api-tutorial-master\app.js --scriptoptions= --log "startsend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-18 22:46:32 - Started 3996
+2021-10-19 15:40:15 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\PDEV\whatsapp-api-tutorial-master\app.js --scriptoptions= --log "startsend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-19 15:40:15 - Started 4908
+2021-10-19 17:39:09 - Stopping startsend.exe
+2021-10-19 17:39:09 - ProcessKill 4908
+2021-10-19 17:39:09 - Found child process: 4920 Name: conhost.exe
+2021-10-19 17:39:09 - Found child process: 4680 Name: node.exe
+2021-10-19 17:39:09 - Stopping process 4920
+2021-10-19 17:39:09 - Send SIGINT 4920
+2021-10-19 17:39:09 - SIGINT to 4920 failed - Killing as fallback
+2021-10-19 17:39:09 - Found child process: 5256 Name: chrome.exe
+2021-10-19 17:39:09 - Found child process: 5200 Name: chrome.exe
+2021-10-19 17:39:09 - Found child process: 5420 Name: chrome.exe
+2021-10-19 17:39:09 - Found child process: 5464 Name: chrome.exe
+2021-10-19 17:39:09 - Found child process: 5440 Name: chrome.exe
+2021-10-19 17:39:09 - Found child process: 5436 Name: chrome.exe
+2021-10-19 17:39:09 - Found child process: 5484 Name: chrome.exe
+2021-10-19 17:39:09 - Found child process: 5528 Name: chrome.exe
+2021-10-19 17:39:09 - Found child process: 5516 Name: chrome.exe
+2021-10-19 17:39:09 - Found child process: 5472 Name: chrome.exe
+2021-10-19 17:39:09 - Found child process: 5556 Name: chrome.exe
+2021-10-19 17:39:09 - Found child process: 5636 Name: chrome.exe
+2021-10-19 17:39:09 - Found child process: 6140 Name: chrome.exe
+2021-10-19 17:39:09 - Stopping process 6140
+2021-10-19 17:39:09 - Send SIGINT 6140
+2021-10-19 17:39:09 - SIGINT to 6140 failed - Killing as fallback
+2021-10-19 17:39:09 - Stopping process 5636
+2021-10-19 17:39:09 - Send SIGINT 5636
+2021-10-19 17:39:09 - SIGINT to 5636 failed - Killing as fallback
+2021-10-19 17:39:09 - Stopping process 5256
+2021-10-19 17:39:09 - Send SIGINT 5256
+2021-10-19 17:39:09 - SIGINT to 5256 failed - Killing as fallback
+2021-10-19 17:39:09 - Found child process: 5656 Name: chrome.exe
+2021-10-19 17:39:10 - Found child process: 6132 Name: chrome.exe
+2021-10-19 17:39:10 - Stopping process 6132
+2021-10-19 17:39:10 - Send SIGINT 6132
+2021-10-19 17:39:10 - SIGINT to 6132 failed - Killing as fallback
+2021-10-19 17:39:10 - Stopping process 5656
+2021-10-19 17:39:10 - Send SIGINT 5656
+2021-10-19 17:39:10 - SIGINT to 5656 failed - Killing as fallback
+2021-10-19 17:39:10 - Stopping process 5200
+2021-10-19 17:39:10 - Send SIGINT 5200
+2021-10-19 17:39:10 - SIGINT to 5200 failed - Killing as fallback
+2021-10-19 17:39:10 - Found child process: 5544 Name: chrome.exe
+2021-10-19 17:39:10 - Stopping process 5544
+2021-10-19 17:39:10 - Send SIGINT 5544
+2021-10-19 17:39:10 - SIGINT to 5544 failed - Killing as fallback
+2021-10-19 17:39:10 - Stopping process 5420
+2021-10-19 17:39:10 - Send SIGINT 5420
+2021-10-19 17:39:10 - SIGINT to 5420 failed - Killing as fallback
+2021-10-19 17:39:10 - Found child process: 5628 Name: chrome.exe
+2021-10-19 17:39:10 - Found child process: 5824 Name: chrome.exe
+2021-10-19 17:39:10 - Stopping process 5824
+2021-10-19 17:39:10 - Send SIGINT 5824
+2021-10-19 17:39:10 - SIGINT to 5824 failed - Killing as fallback
+2021-10-19 17:39:10 - Stopping process 5628
+2021-10-19 17:39:10 - Send SIGINT 5628
+2021-10-19 17:39:10 - SIGINT to 5628 failed - Killing as fallback
+2021-10-19 17:39:10 - Stopping process 5464
+2021-10-19 17:39:10 - Send SIGINT 5464
+2021-10-19 17:39:10 - SIGINT to 5464 failed - Killing as fallback
+2021-10-19 17:39:10 - Found child process: 5708 Name: chrome.exe
+2021-10-19 17:39:10 - Found child process: 5248 Name: chrome.exe
+2021-10-19 17:39:10 - Stopping process 5248
+2021-10-19 17:39:10 - Send SIGINT 5248
+2021-10-19 17:39:10 - SIGINT to 5248 failed - Killing as fallback
+2021-10-19 17:39:10 - Stopping process 5708
+2021-10-19 17:39:10 - Send SIGINT 5708
+2021-10-19 17:39:10 - SIGINT to 5708 failed - Killing as fallback
+2021-10-19 17:39:10 - Stopping process 5440
+2021-10-19 17:39:10 - Send SIGINT 5440
+2021-10-19 17:39:10 - SIGINT to 5440 failed - Killing as fallback
+2021-10-19 17:39:10 - Found child process: 5680 Name: chrome.exe
+2021-10-19 17:39:10 - Found child process: 5236 Name: chrome.exe
+2021-10-19 17:39:10 - Stopping process 5236
+2021-10-19 17:39:10 - Send SIGINT 5236
+2021-10-19 17:39:10 - SIGINT to 5236 failed - Killing as fallback
+2021-10-19 17:39:10 - Stopping process 5680
+2021-10-19 17:39:10 - Send SIGINT 5680
+2021-10-19 17:39:10 - SIGINT to 5680 failed - Killing as fallback
+2021-10-19 17:39:10 - Stopping process 5436
+2021-10-19 17:39:10 - Send SIGINT 5436
+2021-10-19 17:39:10 - SIGINT to 5436 failed - Killing as fallback
+2021-10-19 17:39:10 - Found child process: 5692 Name: chrome.exe
+2021-10-19 17:39:10 - Found child process: 5896 Name: chrome.exe
+2021-10-19 17:39:10 - Stopping process 5896
+2021-10-19 17:39:10 - Send SIGINT 5896
+2021-10-19 17:39:10 - SIGINT to 5896 failed - Killing as fallback
+2021-10-19 17:39:10 - Stopping process 5692
+2021-10-19 17:39:10 - Send SIGINT 5692
+2021-10-19 17:39:10 - SIGINT to 5692 failed - Killing as fallback
+2021-10-19 17:39:10 - Stopping process 5484
+2021-10-19 17:39:10 - Send SIGINT 5484
+2021-10-19 17:39:10 - SIGINT to 5484 failed - Killing as fallback
+2021-10-19 17:39:10 - Found child process: 5640 Name: chrome.exe
+2021-10-19 17:39:10 - Found child process: 4864 Name: chrome.exe
+2021-10-19 17:39:10 - Stopping process 4864
+2021-10-19 17:39:10 - Send SIGINT 4864
+2021-10-19 17:39:10 - SIGINT to 4864 failed - Killing as fallback
+2021-10-19 17:39:10 - Stopping process 5640
+2021-10-19 17:39:10 - Send SIGINT 5640
+2021-10-19 17:39:10 - SIGINT to 5640 failed - Killing as fallback
+2021-10-19 17:39:10 - Stopping process 5528
+2021-10-19 17:39:10 - Send SIGINT 5528
+2021-10-19 17:39:10 - SIGINT to 5528 failed - Killing as fallback
+2021-10-19 17:39:10 - Found child process: 5592 Name: chrome.exe
+2021-10-19 17:39:10 - Stopping process 5592
+2021-10-19 17:39:10 - Send SIGINT 5592
+2021-10-19 17:39:10 - SIGINT to 5592 failed - Killing as fallback
+2021-10-19 17:39:10 - Stopping process 5516
+2021-10-19 17:39:10 - Send SIGINT 5516
+2021-10-19 17:39:10 - SIGINT to 5516 failed - Killing as fallback
+2021-10-19 17:39:11 - Found child process: 5552 Name: chrome.exe
+2021-10-19 17:39:11 - Found child process: 5920 Name: chrome.exe
+2021-10-19 17:39:11 - Stopping process 5920
+2021-10-19 17:39:11 - Send SIGINT 5920
+2021-10-19 17:39:11 - SIGINT to 5920 failed - Killing as fallback
+2021-10-19 17:39:11 - Stopping process 5552
+2021-10-19 17:39:11 - Send SIGINT 5552
+2021-10-19 17:39:11 - SIGINT to 5552 failed - Killing as fallback
+2021-10-19 17:39:11 - Stopping process 5472
+2021-10-19 17:39:11 - Send SIGINT 5472
+2021-10-19 17:39:11 - SIGINT to 5472 failed - Killing as fallback
+2021-10-19 17:39:11 - Found child process: 5652 Name: chrome.exe
+2021-10-19 17:39:11 - Stopping process 5652
+2021-10-19 17:39:11 - Send SIGINT 5652
+2021-10-19 17:39:11 - SIGINT to 5652 failed - Killing as fallback
+2021-10-19 17:39:11 - Stopping process 5556
+2021-10-19 17:39:11 - Send SIGINT 5556
+2021-10-19 17:39:11 - SIGINT to 5556 failed - Killing as fallback
+2021-10-19 17:39:11 - Stopping process 4680
+2021-10-19 17:39:11 - Send SIGINT 4680
+2021-10-19 17:39:11 - SIGINT to 4680 failed - Killing as fallback
+2021-10-19 17:39:11 - Stopping process 4908
+2021-10-19 17:39:11 - Send SIGINT 4908
+2021-10-19 17:39:11 - SIGINT to 4908 failed - Killing as fallback
+2021-10-19 17:39:11 - Finished startsend.exe
+2021-11-16 20:17:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\PDEV\whatsapp-api-tutorial-master\app.js --scriptoptions= --log "startsend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-16 20:17:29 - Started 11068
+2021-11-16 20:32:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\PDEV\whatsapp-api-tutorial-master\app.js --scriptoptions= --log "startsend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-16 20:32:20 - Started 8600
+2021-11-16 21:42:38 - Stopping startsend.exe
+2021-11-16 21:42:38 - ProcessKill 8600
+2021-11-16 21:42:39 - Found child process: 9420 Name: conhost.exe
+2021-11-16 21:42:39 - Found child process: 11748 Name: node.exe
+2021-11-16 21:42:39 - Stopping process 9420
+2021-11-16 21:42:39 - Send SIGINT 9420
+2021-11-16 21:42:39 - SIGINT to 9420 failed - Killing as fallback
+2021-11-16 21:42:39 - Found child process: 988 Name: chrome.exe
+2021-11-16 21:42:39 - Found child process: 11384 Name: chrome.exe
+2021-11-16 21:42:39 - Found child process: 14592 Name: chrome.exe
+2021-11-16 21:42:39 - Found child process: 1232 Name: chrome.exe
+2021-11-16 21:42:39 - Found child process: 12688 Name: chrome.exe
+2021-11-16 21:42:39 - Found child process: 12100 Name: chrome.exe
+2021-11-16 21:42:39 - Found child process: 1804 Name: chrome.exe
+2021-11-16 21:42:39 - Stopping process 1804
+2021-11-16 21:42:39 - Send SIGINT 1804
+2021-11-16 21:42:39 - SIGINT to 1804 failed - Killing as fallback
+2021-11-16 21:42:39 - Stopping process 12100
+2021-11-16 21:42:39 - Send SIGINT 12100
+2021-11-16 21:42:39 - SIGINT to 12100 failed - Killing as fallback
+2021-11-16 21:42:39 - Stopping process 988
+2021-11-16 21:42:39 - Send SIGINT 988
+2021-11-16 21:42:39 - SIGINT to 988 failed - Killing as fallback
+2021-11-16 21:42:39 - Found child process: 4144 Name: chrome.exe
+2021-11-16 21:42:39 - Found child process: 5736 Name: chrome.exe
+2021-11-16 21:42:39 - Stopping process 5736
+2021-11-16 21:42:39 - Send SIGINT 5736
+2021-11-16 21:42:39 - SIGINT to 5736 failed - Killing as fallback
+2021-11-16 21:42:39 - Stopping process 4144
+2021-11-16 21:42:39 - Send SIGINT 4144
+2021-11-16 21:42:39 - SIGINT to 4144 failed - Killing as fallback
+2021-11-16 21:42:39 - Stopping process 11384
+2021-11-16 21:42:39 - Send SIGINT 11384
+2021-11-16 21:42:39 - SIGINT to 11384 failed - Killing as fallback
+2021-11-16 21:42:39 - Found child process: 11988 Name: chrome.exe
+2021-11-16 21:42:39 - Stopping process 11988
+2021-11-16 21:42:39 - Send SIGINT 11988
+2021-11-16 21:42:39 - SIGINT to 11988 failed - Killing as fallback
+2021-11-16 21:42:39 - Stopping process 14592
+2021-11-16 21:42:39 - Send SIGINT 14592
+2021-11-16 21:42:39 - SIGINT to 14592 failed - Killing as fallback
+2021-11-16 21:42:39 - Found child process: 14560 Name: chrome.exe
+2021-11-16 21:42:40 - Stopping process 14560
+2021-11-16 21:42:40 - Send SIGINT 14560
+2021-11-16 21:42:40 - SIGINT to 14560 failed - Killing as fallback
+2021-11-16 21:42:40 - Stopping process 1232
+2021-11-16 21:42:40 - Send SIGINT 1232
+2021-11-16 21:42:40 - SIGINT to 1232 failed - Killing as fallback
+2021-11-16 21:42:40 - Found child process: 12820 Name: chrome.exe
+2021-11-16 21:42:40 - Stopping process 12820
+2021-11-16 21:42:40 - Send SIGINT 12820
+2021-11-16 21:42:40 - SIGINT to 12820 failed - Killing as fallback
+2021-11-16 21:42:40 - Stopping process 12688
+2021-11-16 21:42:40 - Send SIGINT 12688
+2021-11-16 21:42:40 - SIGINT to 12688 failed - Killing as fallback
+2021-11-16 21:42:40 - Stopping process 11748
+2021-11-16 21:42:40 - Send SIGINT 11748
+2021-11-16 21:42:40 - SIGINT to 11748 failed - Killing as fallback
+2021-11-16 21:42:40 - Stopping process 8600
+2021-11-16 21:42:40 - Send SIGINT 8600
+2021-11-16 21:42:40 - SIGINT to 8600 failed - Killing as fallback
+2021-11-16 21:42:40 - Finished startsend.exe
+2021-11-16 23:44:00 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\PDEV\whatsapp-api-tutorial-master\app.js --scriptoptions= --log "startsend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-16 23:44:00 - Started 4216
+2021-11-25 16:45:19 - Stopping startsend.exe
+2021-11-25 16:45:19 - ProcessKill 4216
+2021-11-25 16:45:19 - Found child process: 4380 Name: conhost.exe
+2021-11-25 16:45:19 - Found child process: 5416 Name: node.exe
+2021-11-25 16:45:19 - Stopping process 4380
+2021-11-25 16:45:19 - Send SIGINT 4380
+2021-11-25 16:45:19 - SIGINT to 4380 failed - Killing as fallback
+2021-11-25 16:45:19 - Found child process: 5256 Name: chrome.exe
+2021-11-25 16:45:19 - Found child process: 5100 Name: chrome.exe
+2021-11-25 16:45:19 - Found child process: 11064 Name: chrome.exe
+2021-11-25 16:45:19 - Found child process: 5512 Name: chrome.exe
+2021-11-25 16:45:19 - Found child process: 5572 Name: chrome.exe
+2021-11-25 16:45:19 - Stopping process 5572
+2021-11-25 16:45:19 - Send SIGINT 5572
+2021-11-25 16:45:19 - SIGINT to 5572 failed - Killing as fallback
+2021-11-25 16:45:19 - Stopping process 5512
+2021-11-25 16:45:19 - Send SIGINT 5512
+2021-11-25 16:45:19 - SIGINT to 5512 failed - Killing as fallback
+2021-11-25 16:45:19 - Stopping process 5256
+2021-11-25 16:45:19 - Send SIGINT 5256
+2021-11-25 16:45:19 - SIGINT to 5256 failed - Killing as fallback
+2021-11-25 16:45:20 - Found child process: 5548 Name: chrome.exe
+2021-11-25 16:45:20 - Found child process: 5568 Name: chrome.exe
+2021-11-25 16:45:20 - Stopping process 5568
+2021-11-25 16:45:20 - Send SIGINT 5568
+2021-11-25 16:45:20 - SIGINT to 5568 failed - Killing as fallback
+2021-11-25 16:45:20 - Stopping process 5548
+2021-11-25 16:45:20 - Send SIGINT 5548
+2021-11-25 16:45:20 - SIGINT to 5548 failed - Killing as fallback
+2021-11-25 16:45:20 - Stopping process 5100
+2021-11-25 16:45:20 - Send SIGINT 5100
+2021-11-25 16:45:20 - SIGINT to 5100 failed - Killing as fallback
+2021-11-25 16:45:20 - Found child process: 1628 Name: chrome.exe
+2021-11-25 16:45:20 - Stopping process 1628
+2021-11-25 16:45:20 - Send SIGINT 1628
+2021-11-25 16:45:20 - SIGINT to 1628 failed - Killing as fallback
+2021-11-25 16:45:20 - Stopping process 11064
+2021-11-25 16:45:20 - Send SIGINT 11064
+2021-11-25 16:45:20 - SIGINT to 11064 failed - Killing as fallback
+2021-11-25 16:45:20 - Stopping process 5416
+2021-11-25 16:45:20 - Send SIGINT 5416
+2021-11-25 16:45:20 - SIGINT to 5416 failed - Killing as fallback
+2021-11-25 16:45:20 - Stopping process 4216
+2021-11-25 16:45:20 - Send SIGINT 4216
+2021-11-25 16:45:20 - SIGINT to 4216 failed - Killing as fallback
+2021-11-25 16:45:20 - Finished startsend.exe
